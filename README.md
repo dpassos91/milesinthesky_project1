@@ -25,7 +25,7 @@ It's important to not forget that credit card applications tend to have a meanin
 
 ## The data
 
-The dataset is avaiable [here](https://miles-become-a-data-scientist.s3.us-east-2.amazonaws.com/J1/M7/data/raw/credit_card_applications.csv).
+The dataset is avaiable here as [credit_card_applications.csv](https://miles-become-a-data-scientist.s3.us-east-2.amazonaws.com/J1/M7/data/raw/credit_card_applications.csv).
 
 ## Installation
 
